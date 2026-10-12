@@ -1,0 +1,11 @@
+{
+  "/About/page": "app/About/page.js",
+  "/Cart/page": "app/Cart/page.js",
+  "/Contact/page": "app/Contact/page.js",
+  "/Product/[id]/page": "app/Product/[id]/page.js",
+  "/Product/page": "app/Product/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/checkout/route": "app/api/checkout/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}
